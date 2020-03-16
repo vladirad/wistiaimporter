@@ -1,11 +1,10 @@
 <?php
 /*
 Plugin Name: Wistia Videos Downloader
-Plugin URI: http://www.ybc.tv
+Plugin URI: wistia.devstetic.dev
 Description: Download wistia videos from Account and send them to Dropbox
-Author: yBC
+Author: Devstetic
 Version: 1.0
-Author URI: http://www.ybc.tv
 */
 
 /**
