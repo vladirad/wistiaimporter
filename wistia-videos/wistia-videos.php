@@ -374,7 +374,7 @@ function send_dropbox_page_content() { ?>
       $vidname = $video->post_title;     
 
       $vidurl = get_post_meta( $video->ID, 'video_url', true );
-      $dbtoken = 'n0xLmUS4Y5cAAAAAAACm-2sxc6iVE95GXOumaIADpJ6JafN4pcRarglGWLHTVGd-';
+      $dbtoken = '';
 
       echo '<p>'. $vidname . 'is uploading...</p>';
 
